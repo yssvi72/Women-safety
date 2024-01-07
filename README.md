@@ -1,5 +1,5 @@
 # Women-safety
-Made using React and Nodejs
+Made using basic concepts of HTML , Javascript fundamentals
 Features:
 1. SOS button 
 2. Voice and audio recording sent
